@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D201E79C-39A5-46C1-8A96-DB88CA377E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi.Web", "src\MinimalApi.Web\MinimalApi.Web.csproj", "{3E0517CE-1A6B-4CC0-A408-6432FD8C1619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156F9FBB-0FEF-4687-B262-E7D6D0A2B2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156F9FBB-0FEF-4687-B262-E7D6D0A2B2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156F9FBB-0FEF-4687-B262-E7D6D0A2B2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156F9FBB-0FEF-4687-B262-E7D6D0A2B2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0517CE-1A6B-4CC0-A408-6432FD8C1619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0517CE-1A6B-4CC0-A408-6432FD8C1619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0517CE-1A6B-4CC0-A408-6432FD8C1619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0517CE-1A6B-4CC0-A408-6432FD8C1619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3E0517CE-1A6B-4CC0-A408-6432FD8C1619} = {D201E79C-39A5-46C1-8A96-DB88CA377E32}
+	EndGlobalSection
+EndGlobal
